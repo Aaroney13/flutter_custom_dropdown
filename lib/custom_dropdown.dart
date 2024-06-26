@@ -127,7 +127,7 @@ class CustomDropdown extends StatefulWidget {
         futureRequestDelay = null,
         super(key: key);
 
-  const CustomDropdown.searchRequest({
+  CustomDropdown.searchRequest({
     Key? key,
     required this.controller,
     required this.futureRequest,
